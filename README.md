@@ -2,7 +2,7 @@
 hello here is my first repository in github
  
 ## Follow me on twitter
-Click [here](https://twitter.com/Wharleed03?t=rjab89kXfbn-KPboB16j8w&s=09/) 
+Click on this bird [🐥](https://twitter.com/Wharleed03?t=rjab89kXfbn-KPboB16j8w&s=09/) 
 to follow me on twitter.
  
 If you not redirect automatically click here👇
